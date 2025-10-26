@@ -10,7 +10,7 @@
 
 STS21, the new temperature sensor of Sensirion is about to set new standards in terms of size and intelligence: Embedded in a reflow solderable Dual Flat No leads (DFN) package of 3 x 3mm foot print and 1.1mm height it provides calibrated, linearized signals in digital, I2C format.Using the same CMOSens® technology as Sensirion‟s successful and industry proven SHT2x humidity and temperature sensors, the STS21 offers superior performance and reliability. The ±0.2°C temperature specification allows for implementation of the STS21 in applications with high demands on temperature accuracy.Every sensor is individually calibrated and tested. Lot identification is printed on the sensor and an electronic identification code is stored on the chip – which can be read out by command. Furthermore, the resolution of STS21 can be changed by command (11bit up to 14bit), low battery can be detected and a checksum helps to improve communication reliability.With made improvements and the miniaturization of the sensor the performance-to-price ratio has been improved – and eventually, any device should benefit from the cutting edge energy saving operation mode.
 
-LibDriver STS21 is a full-featured driver of STS21 launched by LibDriver.It provides functions of temperature continuous mode reading and temperature single mode reading. LibDriver is MISRA compliant.
+LibDriver STS21 is a full-featured driver for STS21, launched by LibDriver. It provides continuous reading, single reading and additional features. LibDriver is MISRA compliant.
 
 ### Table of Contents
 

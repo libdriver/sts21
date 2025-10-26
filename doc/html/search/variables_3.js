@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['manufacturer_5fname_189',['manufacturer_name',['../structsts21__info__s.html#ad25285dbf810c90f8eaf3fcef6f2b2ea',1,'sts21_info_s']]],
-  ['max_5fcurrent_5fma_190',['max_current_ma',['../structsts21__info__s.html#a9db82802561bf22d799b03a345f1d1dc',1,'sts21_info_s']]],
-  ['mode_191',['mode',['../structsts21__handle__s.html#a37e90f5e3bd99fac2021fb3a326607d4',1,'sts21_handle_s']]]
+  ['manufacturer_5fname_0',['manufacturer_name',['../structsts21__info__s.html#ad25285dbf810c90f8eaf3fcef6f2b2ea',1,'sts21_info_s']]],
+  ['max_5fcurrent_5fma_1',['max_current_ma',['../structsts21__info__s.html#a9db82802561bf22d799b03a345f1d1dc',1,'sts21_info_s']]],
+  ['mode_2',['mode',['../structsts21__handle__s.html#a37e90f5e3bd99fac2021fb3a326607d4',1,'sts21_handle_s']]]
 ];

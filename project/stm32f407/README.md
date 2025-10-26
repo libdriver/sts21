@@ -70,7 +70,6 @@ We use '\n' to wrap lines.If your serial port assistant displays exceptions (e.g
    sts21 (-t read | --test=read) [--times=<num>]
    ```
 
-
 6. Run sts21 read function, num is read times.
 
    ```shell

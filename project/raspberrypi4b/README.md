@@ -104,7 +104,6 @@ find_package(sts21 REQUIRED)
    sts21 (-t read | --test=read) [--times=<num>]
    ```
 
-
 6. Run sts21 read function, num is read times.
 
    ```shell

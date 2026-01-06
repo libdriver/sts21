@@ -89,7 +89,7 @@ typedef enum
 typedef enum  
 {
     STS21_RESOLUTION_T_14BIT = 0x00,        /**< resolution t 14bit */
-    STS21_RESOLUTION_T_12BIT  = 0x01,        /**< resolution t 12bit */
+    STS21_RESOLUTION_T_12BIT = 0x01,        /**< resolution t 12bit */
     STS21_RESOLUTION_T_13BIT = 0x02,        /**< resolution t 13bit */
     STS21_RESOLUTION_T_11BIT = 0x03,        /**< resolution t 11bit */
 } sts21_resolution_t;

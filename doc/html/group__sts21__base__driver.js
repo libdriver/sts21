@@ -43,8 +43,8 @@ var group__sts21__base__driver =
       [ "STS21_RESOLUTION_T_11BIT", "group__sts21__base__driver.html#gga1151583404209a9f6600fa371d43d663a0b3280b0524f4ca6aceacda29151b850", null ]
     ] ],
     [ "sts21_status_t", "group__sts21__base__driver.html#ga79126f729cfe409eb2d35b26738215ac", [
-      [ "SHT35_STATUS_VDD_OVER_2P25V", "group__sts21__base__driver.html#gga79126f729cfe409eb2d35b26738215aca2efea476547eefb6a6664b5bbe93e389", null ],
-      [ "SHT35_STATUS_VDD_LESS_2P25V", "group__sts21__base__driver.html#gga79126f729cfe409eb2d35b26738215aca23b01952dafa28e6218d77649437ec96", null ]
+      [ "STS21_STATUS_VDD_OVER_2P25V", "group__sts21__base__driver.html#gga79126f729cfe409eb2d35b26738215acae402c903ee506bdc49593c584bca8b37", null ],
+      [ "STS21_STATUS_VDD_LESS_2P25V", "group__sts21__base__driver.html#gga79126f729cfe409eb2d35b26738215acae801301af57ee0d1f89cdf41e250fccf", null ]
     ] ],
     [ "sts21_deinit", "group__sts21__base__driver.html#gab17e5a8502a809893404c5ccc7d71bd2", null ],
     [ "sts21_get_disable_otp_reload", "group__sts21__base__driver.html#ga363f3f3cc683d2c2ae023e591e10a100", null ],

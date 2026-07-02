@@ -326,7 +326,7 @@ uint8_t sts21_register_test(void)
         
         return 1;
     }
-    sts21_interface_debug_print("sts21: check vdd 2.25v status %s.\n", (status == SHT35_STATUS_VDD_OVER_2P25V) ? "over" : "less");
+    sts21_interface_debug_print("sts21: check vdd 2.25v status %s.\n", (status == STS21_STATUS_VDD_OVER_2P25V) ? "over" : "less");
     
     /* sts21_get_serial_number test */
     sts21_interface_debug_print("sts21: sts21_get_serial_number test.\n");
